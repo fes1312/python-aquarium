@@ -1,4 +1,4 @@
-# python-aquarium
+# Disegno di un acquario
 
 Questo programma è stato creato usando il modulo turtle di Python per realizzare un acquario
 
